@@ -17,7 +17,7 @@ chmod +x tsync.sh
 Voila! your time is correctly synced
 ```
 
-##How does it work
+## How does it work
 
 Just as windows uses time.windows.com and apple uses time.apple.com
 it uses a free service http://worldtimeapi.org , which also gives api access
