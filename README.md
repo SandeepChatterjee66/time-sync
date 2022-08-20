@@ -7,7 +7,7 @@ Does your system date and time often run out of sync. Windows and Mac users have
 ```
 ./tsync.sh
 ```
-<Enter your password>
+
 Voila! your time is correctly synced
 
 ## Installation
@@ -21,7 +21,8 @@ Note: the code has hard coded time zone for Asia-Kolkata, for other time-zones c
 
 ## Pre-requisite
 
-Any version of python 
+1. Any version of python.
+2. This tool is made for Linux users
 
 
 ## How does it work
