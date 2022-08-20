@@ -3,14 +3,14 @@ time syncronisation
 
 Does your system date and time often run out of sync. Windows and Mac users have a sync button in the settings which gets synced with the help of microsoft's and apple's servers. Many linux distros have it too, but most OS based on linux lack it. So Here is one nice, simple and efficient solution.
 
-##Installation
+## Installation
 ```
 git clone https://github.com/SandeepChatterjee66/time-sync
 mv -i time-sync/tsync.sh ~/
 chmod +x tsync.sh
 ```
 
-##Usage
+## Usage
 ```
 ./tsync.sh
 <Enter your password>
