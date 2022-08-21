@@ -30,3 +30,5 @@ Note: the code has hard coded time zone for Asia-Kolkata, for other time-zones c
 Just as windows uses time.windows.com and apple uses time.apple.com
 it uses a free service http://worldtimeapi.org , which also gives api access
 we fetch the date and time according to time-zone, then fetch the time. and set it to our system
+
+![alt text](https://github.com/SandeepChatterjee66/time-sync/blob/main/Screenshot.png?raw=true)
